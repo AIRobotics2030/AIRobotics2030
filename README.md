@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 this is a ✨ _special_ ✨ repository for course demo and real time ML modelling for Sustainability Solutions
 
 <!--
 **AIRobotics2030/AIRobotics2030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
